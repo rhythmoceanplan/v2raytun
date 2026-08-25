@@ -1,0 +1,10 @@
+# Локальный кэш и служебные файлы
+_bundle_cache/
+__pycache__/
+*.log
+gbnd.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
